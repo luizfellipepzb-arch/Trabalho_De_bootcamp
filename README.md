@@ -1,2 +1,2 @@
 # Trabalho_De_bootcamp
-Publicação dos elementos dos tralbaho de Sistematização de bootcamp
+Publicação dos elementos dos trabalho de Sistematização de bootcamp
